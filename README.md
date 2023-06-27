@@ -8,6 +8,7 @@ Big fan of software engineering and specifically the Cloud. Curious, self-taught
 - 📍 Montréal
 - 🌐 https://raph1201.github.io
 - ☁️ Learning DevOps
+- ⚡️ "Anything worth doing is worth doing poorly"
 
 ### Skills
 <p align="left">
