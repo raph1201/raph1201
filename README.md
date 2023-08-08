@@ -1,4 +1,4 @@
-Hello There! My name is Raphael Julien! 🌝
+Hello There! My name is Raphael! 🌝
 ==========================================
 Student | Comp. Sci. | DevOps
 -----------------------------
