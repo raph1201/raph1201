@@ -1,6 +1,6 @@
 Hello There! My name is Raphael! 🌝
 ==========================================
-Student | Comp. Sci. | DevOps
+Cloud | Comp. Sci. | DevOps
 -----------------------------
 Big fan of software engineering and specifically the Cloud. Curious, self-taught, and relentlessly learning until I land I good job. Started my AWS journey and eager to learn more everyday! Focused on completing projects, gaining knowledge and obtaining results.
 
